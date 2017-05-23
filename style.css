@@ -1,0 +1,43 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+}
+
+.header {
+	border: 2px solid black;
+}
+
+.navbar-header a {
+	color: #000000;
+	font-size: 20px;
+}
+.sidenav {
+	padding-top: 20px;
+	background-color: #f1f1f1;
+	height: 100%;
+}
+.right-sidenav {
+	background-color: #ffffff;
+}
+.text-mid {
+	height: 100%;
+}
+.row.content {
+	height: 450px;
+}
+.text-mid {
+	padding-top: 15px;
+	padding-right: 0px;
+}
+.footer {
+	background-color: #555;
+	color: #ffffff;
+	padding: 15px;
+}
+.formm {
+	border: 2px solid black;
+	margin-right: 0px;
+}
